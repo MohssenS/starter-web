@@ -28,18 +28,13 @@
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Junk filer content</p>
-=======
-<<<<<<< HEAD
-			Just stuff for now,
-			not sure if we should replace this or not
+		<p>&copy; Jason Taylor</p>
 =======
 			Just nothin' but trouble.
->>>>>>> d3b037d (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Jason Taylor 2014</p>
+		<p>&copy; Git training 2014</p>
 >>>>>>> realwork
 	</footer>
 </body>

@@ -2,11 +2,19 @@
 <!--
 	Copyright 2023 Git.training
 	Adding changes before rebasing conflicts
+<<<<<<< HEAD
+	Some silly changes from master branch
+-->
+<head>
+<<<<<<< HEAD
+	<title>Silly changes on master</title>
+=======
 	branch bigtrouble
 -->
 <head>
 <<<<<<< HEAD
 	<title>Lots of trouble</title>
+>>>>>>> d3b037d (fb adding some trouble to simple.html)
 =======
 	<title>An great webiste</title>
 >>>>>>> realwork
